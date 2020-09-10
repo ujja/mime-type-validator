@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd045391-6c25-4a7d-9588-497a8fa0025c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/alexa_client/alexa_client/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alexa_client/alexa_client/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/alexa_client/alexa_client/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alexa_client/alexa_client/client.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UkauavTtsYAdpbPn4FeyAkyrfj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../botium-datasets" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ujja\projects\!playgrounds\AVS with Python" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AVS with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd045391-6c25-4a7d-9588-497a8fa0025c" name="Default Changelist" comment="" />
+      <created>1575903271167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575903271167</updated>
+      <workItem from="1575970658703" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575989355655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1575989355655" />
+    <state x="819" y="169" width="573" height="595" key="#xdebugger.evaluate" timestamp="1575967462293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="819" y="169" width="573" height="595" key="#xdebugger.evaluate/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1575967462293" />
+    <state x="655" y="135" width="798" height="594" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1575912967248" />
+    <state width="1389" height="466" key="DebuggerActiveHint" timestamp="1575906312007">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1389" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1575906312007" />
+    <state x="694" y="301" key="EnvironmentVariablesDialog" timestamp="1575989354314">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="301" key="EnvironmentVariablesDialog/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1575989354314" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1578483746545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1578483746545" />
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom" timestamp="1576059312393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.0.bottom/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312393" />
+    <state width="1515" height="458" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576049421260" />
+    <state width="1899" height="311" key="GridCell.Tab.0.center" timestamp="1576059312393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.0.center/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312393" />
+    <state width="1515" height="458" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1576049421259" />
+    <state width="1899" height="311" key="GridCell.Tab.0.left" timestamp="1576059312393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.0.left/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312393" />
+    <state width="1515" height="458" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1576049421259" />
+    <state width="1899" height="311" key="GridCell.Tab.0.right" timestamp="1576059312393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.0.right/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312393" />
+    <state width="1515" height="458" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1576049421259" />
+    <state width="1899" height="311" key="GridCell.Tab.1.bottom" timestamp="1576059312394">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.1.bottom/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312394" />
+    <state width="1515" height="352" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1575950391846" />
+    <state width="1899" height="311" key="GridCell.Tab.1.center" timestamp="1576059312394">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.1.center/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312394" />
+    <state width="1515" height="352" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1575950391846" />
+    <state width="1899" height="311" key="GridCell.Tab.1.left" timestamp="1576059312393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.1.left/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312393" />
+    <state width="1515" height="352" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1575950391846" />
+    <state width="1899" height="311" key="GridCell.Tab.1.right" timestamp="1576059312394">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="311" key="GridCell.Tab.1.right/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1576059312394" />
+    <state width="1515" height="352" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1575950391846" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1575903497278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1575903497278" />
+    <state x="661" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1578483721640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="363" key="com.intellij.ide.util.TipDialog/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1578483721640" />
+    <state x="341" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575911348295">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="341" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1575911348295" />
+    <state x="670" y="50" width="764" height="987" key="find.popup" timestamp="1575991164098">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="670" y="50" width="764" height="987" key="find.popup/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1575991164098" />
+    <state x="536" y="40" width="611" height="789" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1575905145401" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1576045524536">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1576045524536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/hyper/common/bufsocket.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/hyper/http20/connection.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.host" />
+        <watch expression="multipart_data" />
+        <watch expression="ssl_context" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

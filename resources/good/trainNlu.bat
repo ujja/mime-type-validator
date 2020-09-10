@@ -1,0 +1,1 @@
+docker run -v /c/ujja/projects/rasa_docker:/app/project -v /c/ujja/projects/rasa_docker/models/rasa_nlu:/app/models rasa/rasa_nlu:latest-spacy run python -m rasa_nlu.train -c config.yml -d project/data/nlu.md -o models --project current
